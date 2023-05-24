@@ -1,4 +1,0 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'Demo For HUGO'
-theme = 'hugo-PaperMod'
